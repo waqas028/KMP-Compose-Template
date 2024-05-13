@@ -1,3 +1,17 @@
+# KMP Compose Login Screen Template
+
+# Demo
+
+| Android | IOS Mobile | Desktop |
+| ------------- | ------------- | ------------- |
+| <img width="803" alt="Android" src="https://github.com/waqas028/KMP-Compose-Template/assets/96041723/55fff70c-6194-457b-a0b5-4fc5a47339b3"> | <img width="803" alt="Iphone 15 Pro Max" src="https://github.com/waqas028/KMP-Compose-Template/assets/96041723/b7153f90-a70d-4f73-a298-ff4803962a1d"> | <img alt="Screenshot 2024-05-11 at 7 51 30 PM" src="https://github.com/waqas028/KMP-Compose-Template/assets/96041723/f52657ba-acd2-4071-b44f-03de7b88004a">
+
+| IPad |
+| ------------- |
+| <img alt="Ipad" src="https://github.com/waqas028/KMP-Compose-Template/assets/96041723/c337d83d-c0fb-4c7a-847b-ebfec63defb4">  |
+
+# Guidline
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
